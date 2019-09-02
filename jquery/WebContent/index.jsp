@@ -35,6 +35,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+666
 	手机：<input id="mobile">
 	<br>
 	<input type="button" value="注册"  onclick="regist()">
